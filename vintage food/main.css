@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    
+    padding: 0px;
+    height: 900px;
+    background: linear-gradient(to bottom, #EDA418, #ffff) ;
+    background-repeat: no-repeat;
+    font-family: "Montserrat";
+    
+}
+
+header {
+    
+    height: 400px;
+    
+}
+
+#logo {
+    width: 354px;
+    height: 72px;
+    margin-left: 0px;
+    margin-top: 5px;
+    
+    
+}
+
+#nav_list {
+    
+    font-size: 25px;
+    display: flex;
+    margin-left: 90px;
+    margin-right: 20px;
+    margin-top: 100px;
+    
+}   
+nav li{
+    margin-right: 150px;
+    margin-top: 20px;
+    list-style: none;
+}
+
+#market {
+    width: 70px;
+    height: 70px;
+
+}
+
+#burger {
+
+    height: 600px;
+    width: 642px;
+    margin-right: 90px;
+    margin-top: 30px;
+
+}
+
+#delivery {
+     
+    margin-left: 130px;
+    margin-top: 250px ;
+
+}
+#main_text {
+    font-size: 32px
+
+}
+
+#mini_text {
+    margin-top: 50px;
+    font-size: 16px;
+}
+#order {
+    background-color: #E52626;
+    color: white;
+    font-size: 24px;
+    border-radius: 50px;
+    height: 60px;
+    width: 180px;
+    border: none;
+    margin-top: 50px;
+    
+}
+
+#order:hover {
+    
+    border: black;
+    background-color: white ;
+    color: #E52626;
+
+}
+#order:active {
+    color: black;
+    background-color: white;
+
+}
+
+
+#menu {
+    
+    background-color: #ffff;
+    background-repeat: no-repeat;
+    height: 750px;
+    margin-left: 0px;
+    margin-top: 340px;
+    
+}
+
+#text_menu {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size:35px;
+    margin-top: 90px;
+}
+
+#menu_title {
+    font-size: 25px;
+    margin: auto;
+    padding: 0%
+
+}
+#burgers,#chiken,#hot,#salad,#deserts,#appetitors {
+    width: 360px;
+    height: 240px;
+
+}
+
+footer {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    padding-top: 100px;
+    height: 300px;
+    background: linear-gradient(to bottom, #ffff, #EDA418) ; 
+    
+    
+}
+#footer_link li {
+
+    
+}
+#footer_link {
+    
+    display: inline;    
+    list-style: none;
+    font-size: 20px;
+    
+}
+#confidentiality {
+    margin-right: 30px;
+    margin-left: 30px;
+    display: inline;
+}
+
+#loyality {
+    display: inline;
+    margin-left: 210px;
+}
+#contract {
+    display: inline;
+}
+
+
+#footer_info {
+    list-style: none;
+    font-size: 20px;
+    
+}
+
+#company {
+    margin-left: 555px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#copyrait {
+    margin-left: 540px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#vk {
+    margin-left: 650px ;
+    margin-right: 20px;
+    margin-top: 20px
+}
